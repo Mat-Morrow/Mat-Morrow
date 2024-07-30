@@ -11,7 +11,7 @@
 - <b>Try Hack Me - 07/2024 </b>
   - [PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LUUOYBASYX.png)
  
-  - <b>Try Hack Me - 07/2024 </b>
+- <b>Try Hack Me - 07/2024 </b>
   - [Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GD3IFRA97T.png)
     
 <h2> 🤳 Connect with me:</h2>
