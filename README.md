@@ -1,4 +1,7 @@
-<h1>Hi, I'm Matt! <br/> <a href="https://www.linkedin.com/in/Matt-to-morrow/"> Current Program Manager & Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Matt! <br/> </h1>
+<h2><a href="https://www.linkedin.com/in/Matt-to-morrow/"> Previous Fraud Analyst, Current Program Manager, & Aspiring Cybersecurity Professional</a> </h2>
+
+<h3>I'm new here, but I'm working on adding projects as I complete them.</h3>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
